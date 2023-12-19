@@ -1,4 +1,5 @@
 # daily-quests
+Simple motivational app I made for myself in order to accomplish a side quest every day.
 
 ## Project setup
 ```
